@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Xty9PYZ.gif)
+<center>![](https://i.imgur.com/VyXkPIM.gif)</center>
 <!--
 **elmerchou/elmerchou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
