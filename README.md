@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/IUk2fpA.gif"/>
 </div>
-<hr/>
+<br />
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=elmerchou&show_icons=true&theme=radical" /> 
 </p>
