@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/elmerchou">
-  <img src="https://i.imgur.com/IUk2fpA.gif" align="center"/> 
+  <img src="https://i.imgur.com/IUk2fpA.gif" /> 
   </a>
 </div>
 
