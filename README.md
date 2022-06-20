@@ -8,3 +8,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerchou&layout=compact" /> 
 </p>
+<p align="center"> 
+  <img src="metrics.plugin.achievements.compact.svg" /> 
+</p>
+
