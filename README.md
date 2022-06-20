@@ -17,7 +17,5 @@
 <a href="https://github.com/elmerchou">
   <img src="https://github-readme-stats.vercel.app/api?username=elmerchou&show_icons=true&theme=gotham" align="center"/> 
 </a>
-<a href="https://github.com/elmerchou">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerchou&layout=compact" align="center"/> 
-</a>
+
 
