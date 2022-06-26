@@ -1,21 +1,23 @@
-<div align="center">
+<p align="center">
   <a href="https://github.com/elmerchou">
   <img src="https://i.imgur.com/IUk2fpA.gif" /> 
   </a>
-</div>
 
 <br />
 
-<div align="center">
   <a href="https://github.com/elmerchou">
     <img src="metrics.plugin.achievements.compact.svg" /> 
   </a>
-<div/>
   
 <br />
   
 <a href="https://github.com/elmerchou">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmerchou&show_icons=true&theme=gotham" align="center"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=elmerchou&show_icons=true&theme=gotham"/> 
 </a>
+</p>
+  
+---
+  
+## Links
 
 
