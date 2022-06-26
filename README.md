@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="https://github.com/elmerchou"><img src="https://i.imgur.com/IUk2fpA.gif" width="100%"/> </a>
+<!--   <a href="https://github.com/elmerchou"><img src="https://i.imgur.com/IUk2fpA.gif" width="100%"/> </a> -->
+  <a href="https://github.com/elmerchou"><img src="https://i.imgur.com/IUk2fpA.gif"/> </a>
 </p>
 
 ## Links
