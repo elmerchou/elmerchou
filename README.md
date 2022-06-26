@@ -12,7 +12,7 @@
 
 <br />
 
-## States
+## Stats
 
 <p align="center">
 <br />
