@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://github.com/elmerchou"><img src="https://github-readme-stats.vercel.app/api?username=elmerchou&show_icons=true&theme=gotham" width = "50%"/> </a>
 <br />
-  <a href="https://github.com/elmerchou"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerchou" width = "50%"/> </a>
+  <a href="https://github.com/elmerchou"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmerchou&hide=C%2B%2B,CMake&layout=compact" width = "50%"/> </a>
 <br />
   <a href="https://github.com/elmerchou"><img src="metrics.plugin.achievements.compact.svg" width = "52%"/> </a>
 </p>
