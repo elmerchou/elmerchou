@@ -5,6 +5,7 @@
 
 ## Tech Skill
 <p align="center">
+<a href="https://github.com/elmerchou">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>  
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> 
@@ -14,6 +15,7 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="55" height="55"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="55" height="55"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png?20210507122249" alt="Blender" width="55" height="55"/>
+</a>
 </p>
 <br>
 <p align="center">I'm still new to these fields, but I'm trying to learn!</p>
